@@ -1,4 +1,6 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://DarthKage87.github.io/my-hugo-site/"
+publishDir = "public"
+
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
